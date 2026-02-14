@@ -34,26 +34,21 @@ Este repositório é para você.
 
 # 📂 Estrutura do Projeto
 domino-spec/<br>
-<div style="border-left: 3px solid #afafafff">
-    ── README.md<br>
-    ── CHANGELOG.md<br>
-    <br>
-    ── rules/<br>
-    <div style="border-left: 3px solid #afafafff;margin-left: 15px">
-        ── official.md<br>
-        ── scoring.md<br>
-    </div>
-    <br>
-    ── variants/<br>
-    <div style="border-left: 3px solid #afafafff;margin-left: 15px">
-        ── closed.md<br>
-        ── open.md<br>
-        ── chaos.md<br>
-    </div>
-    <br>
-    ── proposals/<br>
-    ── README.md<br>
-</div>
+│<br>
+├── README.md → Visão geral do projeto  <br>
+├── CHANGELOG.md → Histórico de alterações  <br>
+│<br>
+├── rules/ → Regras oficiais do jogo<br>
+│   ├── official.md → Regras oficiais consolidadas<br>
+│   └── scoring.md → Sistema de pontuação<br>
+│<br>
+├── variants/ → Variações do jogo  <br>
+│   ├── closed.md → Modalidade fechada  <br>
+│   ├── open.md → Modalidade aberta  <br>
+│   └── chaos.md → Variante alternativa  <br>
+│<br>
+└── proposals/ → Propostas de alterações ou novas regras  <br>
+    └── README.md → Diretrizes para envio de propostas<br>
 
 Organizado como se fosse um projeto sério.
 
