@@ -112,4 +112,5 @@ Use.
 Modifique.
 Distribua.
 
-Mas não use este repositório como prova definitiva em briga de família sem preparo emocional!!!
+Mas não use este repositório como prova definitiva em briga de família sem preparo emocional.
+    
