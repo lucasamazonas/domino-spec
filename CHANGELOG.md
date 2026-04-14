@@ -20,3 +20,4 @@ Este documento registra todas as mudanças que alteraram o destino do dominó mo
 - Toda controvérsia ficará documentada para sempre.
 
 Porque se vamos discutir, que seja versionado.
+  
